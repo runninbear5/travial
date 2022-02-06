@@ -1,0 +1,17 @@
+{
+	"countries": [
+		{
+			"Name": "Canada",
+			"Snow": 3,
+			"Hiking": 2,
+			"Sight-seeing": 1,
+			"Water": 0,
+			"Cuisine": 2,
+			"Adventure": 0,
+			"Beach": 0,
+			"Culture": 1,
+			"Night-life": 1,
+			"Museums": 1
+		}
+	]
+}
