@@ -24,8 +24,8 @@ db = Firebase()
 #print(db.getCountriesOnActivities("Hike"))
 
 # amadeus = Client(
-#     client_id='cgbm1mGxaySrFnr54MzRRGo3lea8a9Rp',
-#     client_secret='Mt2KxAPu57ZfMxvS'
+#     client_id= #TODO: AMADEUS API KEY
+#     client_secret= #TODO: AMADEUS API SECRET KEY
 # )
 
 # try:
